@@ -20,6 +20,12 @@
   margin-left: 40px;
   
 }
+
+
+.hope {
+    font-family: 'Copperplate gothic';
+    font-weight: 'bold';
+}
 @media (max-width: 768px) {
     .navbar:not(.top-nav-collapse) {
         background: #7d8488 !important;
