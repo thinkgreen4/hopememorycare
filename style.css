@@ -23,7 +23,8 @@
  #nav1 {
     background-color: lightskyblue !important;
      width: 100%;
-     padding-top: 50px;
+     padding-top: 20px;
+    
      
  }
  #img1 {
@@ -41,6 +42,10 @@
     font-size: 35px;
     text-align: center;
 }
+.treating {
+    font-size: 18px;
+    
+}
 #leftpic {
     font-size: 18px;
    
@@ -50,9 +55,9 @@
 }
 #list {
     margin-left: auto;
-    margin-right: auto;
+    margin-right:auto;
     display: table;
-    font-size: 18px;
+    font-size: 13px;
     text-align: left;
 }
 #surest {
