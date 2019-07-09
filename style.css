@@ -61,6 +61,7 @@
     text-align: left;
 }
 #surest {
+    margin-top:2px;
     margin-left: auto;
     margin-right: auto;
     display: table;
@@ -69,7 +70,15 @@
     padding-left:200px;
     padding-right:100px;
 
+
 }
+.surestl{
+    font-style: italic;
+    font-size: 18px;
+    font-display: bold;
+
+}
+
 .dif {
     text-align: center;
 }
