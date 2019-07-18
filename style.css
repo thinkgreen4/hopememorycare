@@ -72,6 +72,14 @@
 
 
 }
+#Bredesen{
+    margin-left: auto;
+    margin-right:auto;
+    display: table;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+
+}
 .justify {
     margin-left: auto;
     margin-right:auto;
